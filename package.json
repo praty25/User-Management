@@ -1,0 +1,19 @@
+{
+  "name": "usermanagement",
+  "version": "1.0.0",
+  "description": "describes how a user can be created and listed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praty25/User-Management.git"
+  },
+  "author": "Prateek Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praty25/User-Management/issues"
+  },
+  "homepage": "https://github.com/praty25/User-Management#readme"
+}
